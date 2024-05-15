@@ -13,3 +13,6 @@ THIRD PART
 First line of the third part
 
 CONFLICT SIMULATE
+
+STH ABOUT TO HAPPEN
+
